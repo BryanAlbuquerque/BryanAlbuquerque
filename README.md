@@ -4,8 +4,6 @@
   💻 Desenvolvedor em formação • 🎓 Estudante de Tecnologia • 🚀 Apaixonado por código
 </p>
 
----
-
 ## 🧠 Sobre mim
 
 Sou estudante de desenvolvimento de software, focado principalmente em **aplicações Desktop com C#**, **Windows Forms**, **WPF** e **SQL Server**.  
