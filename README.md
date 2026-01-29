@@ -54,29 +54,6 @@ Atualmente estou evoluindo meus projetos pessoais e acadêmicos, sempre com foco
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🎮 **PortalGamer**
-Sistema Desktop desenvolvido em **C# (Windows Forms)** com **SQL Server**, contendo:
-- Sistema de login e cadastro
-- Área administrativa
-- Gerenciamento de jogos e produtos geeks
-- Fluxo completo de compra
-- Interface gerada 100% por código (sem Designer)
-
-🔗 *Confira no repositório*
-
----
-
-### 📽️ **Sistema de Reserva de Equipamentos**
-Projeto focado em **POO**, desenvolvido para ambiente escolar:
-- Controle de empréstimos
-- Níveis de permissão (professor / coordenação)
-- Planejamento completo (requisitos, testes, viabilidade)
-- Interface em **WPF**
-
----
-
 ## 📫 Contato
 
 - 💼 GitHub: [github.com/BrianAlbuquerque](https://github.com/BrianAlbuquerque)
