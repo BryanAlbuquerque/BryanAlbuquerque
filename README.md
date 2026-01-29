@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Bryan Albuquerque</h1>
 
-<!--
-**BryanAlbuquerque/BryanAlbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor em formação • 🎓 Estudante de Tecnologia • 🚀 Apaixonado por código
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/BrianAlbuquerque">
+    <img src="https://img.shields.io/github/followers/BrianAlbuquerque?label=Seguidores&style=for-the-badge" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de desenvolvimento de software, focado principalmente em **aplicações Desktop com C#**, **Windows Forms**, **WPF** e **SQL Server**.  
+Gosto de criar projetos completos, desde o **planejamento** até a **implementação**, sempre buscando aprender mais sobre **arquitetura**, **POO** e **boas práticas**.
+
+Atualmente estou evoluindo meus projetos pessoais e acadêmicos, sempre com foco em **aprendizado real e código funcional**.
+
+---
+
+## 🚀 Tecnologias & Skills
+
+### 💻 Linguagens
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Plataformas
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/MVC-0C54C2?style=for-the-badge)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
+![Web API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+---
+
+### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🛠️ Ferramentas
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🎮 **PortalGamer**
+Sistema Desktop desenvolvido em **C# (Windows Forms)** com **SQL Server**, contendo:
+- Sistema de login e cadastro
+- Área administrativa
+- Gerenciamento de jogos e produtos geeks
+- Fluxo completo de compra
+- Interface gerada 100% por código (sem Designer)
+
+🔗 *Confira no repositório*
+
+---
+
+### 📽️ **Sistema de Reserva de Equipamentos**
+Projeto focado em **POO**, desenvolvido para ambiente escolar:
+- Controle de empréstimos
+- Níveis de permissão (professor / coordenação)
+- Planejamento completo (requisitos, testes, viabilidade)
+- Interface em **WPF**
+
+---
+
+## 📫 Contato
+
+- 💼 GitHub: [github.com/BrianAlbuquerque](https://github.com/BrianAlbuquerque)
+- 📧 Email: *adicione aqui se quiser*
+- 💬 Sempre aberto para aprender, trocar ideia e colaborar em projetos
+
+---
+
+<p align="center">
+  🚀 <i>“Código não é só escrever linhas, é resolver problemas.”</i>
+</p>
