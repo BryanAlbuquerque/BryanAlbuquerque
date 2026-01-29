@@ -4,12 +4,6 @@
   💻 Desenvolvedor em formação • 🎓 Estudante de Tecnologia • 🚀 Apaixonado por código
 </p>
 
-<p align="center">
-  <a href="https://github.com/BrianAlbuquerque">
-    <img src="https://img.shields.io/github/followers/BrianAlbuquerque?label=Seguidores&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 Sobre mim
