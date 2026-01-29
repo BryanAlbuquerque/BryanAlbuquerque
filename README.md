@@ -48,8 +48,8 @@ Atualmente estou evoluindo meus projetos pessoais e acadêmicos, sempre com foco
 
 ## 📫 Contato
 
-- 💼 GitHub: [github.com/BrianAlbuquerque](https://github.com/BrianAlbuquerque)
-- 📧 Email: *adicione aqui se quiser*
+- 💼 LinkedIn: https://www.linkedin.com/in/bryanalbuquerque
+- 📧 Email: bryanalburquerque2@gmail.com
 - 💬 Sempre aberto para aprender, trocar ideia e colaborar em projetos
 
 ---
