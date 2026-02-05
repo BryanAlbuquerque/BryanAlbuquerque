@@ -41,7 +41,7 @@ Atualmente estou evoluindo meus projetos pessoais e acadêmicos, sempre com foco
 
 ### 🛠️ Ferramentas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-[Microsoft Azure](https://azure.microsoft.com/pt-br/)
+![Microsoft Azure](https://azure.microsoft.com/pt-br/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
