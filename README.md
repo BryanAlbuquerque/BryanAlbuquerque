@@ -6,11 +6,11 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de desenvolvimento de software, focado principalmente em **aplicações Desktop com C#**, **Windows Forms**, **WPF** e **SQL Server**.  
+Sou desenvolvedor de software, com conhecimento em **aplicações Desktop com C#**, **Windows Forms**, **WPF** e **SQL Server**
+e **Desenvolvimento Web** **ASP.NET core**, **Razor Pages**, **HTML & CSS** e **Web API's**.
 Gosto de criar projetos completos, desde o **planejamento** até a **implementação**, sempre buscando aprender mais sobre **arquitetura**, **POO** e **boas práticas**.
 
 Atualmente estou evoluindo meus projetos pessoais e acadêmicos, sempre com foco em **aprendizado real e código funcional**.
-
 ---
 
 ## 🚀 Tecnologias & Skills
